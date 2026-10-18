@@ -207,4 +207,4 @@ LingoWare is offered as a complete free version with all features fully unlocked
 Take control of your software experience with LingoWare! Download now and enjoy seamless translations!
 
 ---
-**Last updated:** 2026-10-17 23:38:25 UTC
+**Last updated:** 2026-10-18 02:10:10 UTC
